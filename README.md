@@ -1,12 +1,6 @@
 # Enterprise-PDF-RAG-Chatbot
 Long-context RAG chatbot for large PDFs using FAISS
 
-
-# Enterprise-Grade PDF RAG Chatbot  
-## Long-Context Retrieval-Augmented Generation using Hugging Face (Colab)
-
----
-
 ## Problem Statement
 
 Organizations store critical knowledge in large PDF documents such as technical manuals, regulatory policies, contracts, and research papers. Traditional LLMs struggle with these documents due to limited context windows, leading to truncation, hallucinations, or system crashes.
